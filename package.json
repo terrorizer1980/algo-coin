@@ -9,7 +9,7 @@
     "@phosphor/widgets": "^1.6.0",
     "es6-promise": "^4.0.5",
     "less": "^3.10.3",
-    "less-loader": "^5.0.0",
+    "less-loader": "^6.0.0",
     "phosphor-perspective-utils": "^0.1.7"
   },
   "devDependencies": {
